@@ -1,12 +1,6 @@
 
 # Projet 1
 
-*En cours de rédaction*
-
-## Objectif
-
-(À compléter)
-
 ## Utilisation du code
 
 - Utilisez Python version 3.13.7 (recommandé, car c'est celle utilisée pour le développement).
@@ -17,15 +11,10 @@
 - Le code principal se trouve dans le fichier `main.ipynb` (notebook Jupyter).
 - Les résultats sont stockés dans le dossier `data/Dataset_pre_traiter/`.
 
-## Architecture du code
-
-(À compléter)
-
 ## Autres informations
 
 - Le sujet du projet est disponible dans `Projet1_sujet.pdf`.
-<!-- - Le compte rendu est disponible dans `Projet1_Pretraitement_ClementGauthier.docx` en format Word.
-- Le compte rendu est disponible dans `Projet1_Pretraitement_ClementGauthier.pdf` en format PDF. -->
+- Le compte rendu est disponible dans `Projet1_Pretraitement_ClementGauthier.pdf` en format PDF.
 
 ## Auteur
 
