@@ -40,7 +40,7 @@ Le projet a été réalisé dans le cadre du cours « Méthodes avancées en cyb
 
 ## Fichiers importants
 
-- Notebook principal : `main.ipynb`
+- Notebook principal : `Projet1_Pretraitement_ClementGauthier.ipynb`
 - Sujet du projet : `Projet1_sujet.pdf`
 - Rapport / compte rendu : `Projet1_Pretraitement_ClementGauthier.pdf`
 - Dépôt GitHub : <https://github.com/gogo25171/Projet1_Pretraitement>
